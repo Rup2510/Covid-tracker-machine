@@ -1,0 +1,4 @@
+so now we gonna run the covid tracker using pycharm.
+ so the moment we start the tracker it displays the GUI of our covid tracker ..A GUI (graphical user interface) is a system of interactive visual components for computer software. A GUI displays objects that convey information, and represent actions that can be taken by the user. The objects change color, size, or visibility when the user interacts with them.
+here we have the live active corona cases all over the world...below that we have the deaths occured due to corona and lastly we have the 
+recovered patients....Now if we type any countrys name here like canada....it will show us th active cases deaths and recovered patients from corona.....here we pull out data using requests module of python from xml and html....the gui used in our tracker is tkinter...it is an extention for gui in python  ....
